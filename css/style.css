@@ -1,0 +1,12 @@
+.svg, .jpg{
+	background-color:#F2F2F2;
+}
+
+.pad{
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.txtbld{
+	font-weight: bold;
+}
